@@ -1,0 +1,6 @@
+{
+  "name": "Affiliate Scale Engine | محرك التوسع للأفلييت",
+  "description": "المرحلة الخامسة (S — Scale) من نظام تشغيل الأفلييت R.B.T.L.S لتقييم جاهزية التوسع، تحديد وحدة التوسع المثبتة، حساب الاقتصاديات الهامشية، وضبط حدود الأمان وخطة الرجوع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
